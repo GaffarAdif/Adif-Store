@@ -1,5 +1,44 @@
 @media screen and (max-width:767px) {
 
+    .card {
+        height: 350px;
+        width: 200px;
+    }
+
+
+    .card-img {
+        width: 180px;
+        height: 200px;
+    }
+
+    .card-banner {
+
+        height: 350px;
+        width: 198px;
+        border-radius: 5px;
+    }
+
+
+
+    .card-title {
+        font-size: 15px;
+    }
+
+    .card-btn {
+        height: 25px;
+        font-size: 15px;
+
+    }
+
+    .deals-section {
+        height: 500px;
+        width: 480px;
+    }
+
+    .deal-img {
+
+        margin-left: 75px;
+    }
 
 
 
@@ -12,11 +51,95 @@
 
 
 
+}
+
+
+/* extra small divice responsive */
 
 
 
 
 
+@media screen and (max-width:580px) {
+
+.sm-fix-position{width:340px ;}
+
+
+
+
+.shoping-section{
+
+}
+
+    .card {
+        height: 250px;
+        width: 150px;
+    }
+
+
+    .card-img {
+        width: 120px;
+        height: 150px;
+    }
+
+    .card-banner {
+
+        height: 248px;
+        width: 148px;
+        border-radius: 5px;
+    }
+
+
+
+    .card-title {
+        font-size: 10px;
+    }
+
+    .card-text {
+        font-size: 10px;
+    }
+
+    .card-btn {
+
+        height: 20px;
+        font-size: 10px;
+
+    }
+
+    .deals-section {
     
-    
+        margin:  0 auto;
+
+        height: 500px;
+        width: 330px;
+    }
+
+    .deal-text {
+        font-size: 20px;
+    }
+
+    .deal-img {
+
+        margin-left: 10px;
+    }
+.service-section{
+    margin:  0 auto;
+
+    width: 300px;
+
+}
+
+
+.full-footer-section{
+    width: 350px;   
+    margin:  0 auto;
+}
+
+
+
+
+
+
+
+
 }
