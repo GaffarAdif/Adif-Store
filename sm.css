@@ -40,17 +40,6 @@
         margin-left: 75px;
     }
 
-
-
-
-
-
-
-
-
-
-
-
 }
 
 
@@ -63,14 +52,6 @@
 @media screen and (max-width:580px) {
 
 .sm-fix-position{width:340px ;}
-
-
-
-
-.shoping-section{
-
-}
-
     .card {
         height: 250px;
         width: 150px;
@@ -134,12 +115,5 @@
     width: 350px;   
     margin:  0 auto;
 }
-
-
-
-
-
-
-
 
 }
