@@ -1,0 +1,235 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+    font-family: 'Caprasimo', cursive;
+
+}
+
+.container{
+    background: #ffffff;
+}
+/* upper header section start here  */
+
+.hr{
+    width: 90%;
+    border-bottom: dotted #00B2EA .8px ;
+    margin: 0 auto;
+}
+
+
+.top-header{
+    margin: 10px 0 10px 0;
+}
+
+.top-h-text,.top-h-logo{
+    text-decoration: none;
+    color: #00B2EA;
+}
+
+/* top header section end here  */
+
+/* main header section start here  */
+
+#search-inp{
+    height: 40px;
+    width: 75%;
+    border: #00B2EA solid .8px;
+    background-color: transparent;
+    border-radius: 8px;
+    padding-left: 10px;
+
+}
+
+
+#search-btn{
+    margin-left: 3%;
+    height: 40px;
+    width: 20%;
+    color:#00B2EA ;
+    border: #00B2EA solid .8px;
+    background-color: transparent;
+border-radius: 8px;
+transition: 1s;
+}
+
+.a-hover{
+    transition: 1s;
+}
+.a-hover:hover{
+  text-decoration: underline;
+}
+#search-btn:hover {
+    transform: scale(1.1);
+    background-color: #9a8eb5;
+    color: white;
+  }
+
+
+.search-section{
+
+margin-top: 10px;
+}
+
+.wisht-s-pic{
+    width: 30px;
+    height: 30px;
+}
+
+.wish-s-text{
+    text-decoration: none;
+    color: #00B2EA;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.wish-section{
+    margin-top: 10px;
+}
+
+/* main header section end here  */
+
+
+.shoping-section{
+    margin-top: 50px;
+}
+
+/* card section start here  */
+
+.card-img{
+margin: 0 auto;
+height: 250px;
+width: 200px;
+}
+
+.card{
+    border: #00B2EA solid .80px;
+    text-align: center;
+}
+.card-title{
+    color: black;
+}
+.card-text{
+color: black;
+}
+.card-body{
+    margin: 0;
+}
+.card-btn{
+height: 40px;
+width: 70%;
+background-color: #00B2EA;
+color: white;
+border-radius: 10px;
+}
+.card-banner{
+    height: 405px;
+}
+
+.row{
+    margin-top: 50px;
+}
+.card{
+    margin-top: 25px;
+}
+.card-fix{
+    height: 405px;
+}
+/* card section end here  */
+
+
+/* deals secion start here ltw1 */
+
+.deals-section{
+    background: #1283A7;
+    border-radius: 5px;
+}
+
+.deal-img{
+
+    width:338px;
+height: 263px;
+}
+
+.mont-deals-div{
+   margin: 0 auto;
+    margin-top: 100px;
+    text-align: center;
+    background-color: #00B2EA;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 40px;
+    width: 70%;
+}
+.deal-text{
+text-align: center;
+    font-size: 30px;
+}
+
+.img-center{
+    margin: 0 auto;
+}
+
+/* deals section end here  */
+
+
+/* service section start here  */
+
+
+.s-card{
+    text-align: center;
+    border-radius: 5px;
+    height: 180px;
+    background-color: #F5F6FA;
+}
+
+
+
+.service-img-fix{
+    height: 70px;
+    width: 70px;
+}
+
+/* footer section start here  */
+
+.footer-h-logo{
+    text-align: center;
+    color: #00B2EA;
+    padding: 5px 0;
+    border-bottom: #00B2EA .9px solid;
+}
+.full-footer-section{
+    margin-top: 50px;
+}
+
+.py-img{
+    width: 70%;
+height: 50px;
+}
+
+.payment{
+    font-size: 15px;
+}
+
+.footer-l-e-p-img{
+    height:30px ;
+    width:30px ;
+}
+
+.footer-link{
+    text-decoration: none;
+    color: #00B2EA;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
