@@ -51,7 +51,10 @@
 
 @media screen and (max-width:580px) {
 
-.sm-fix-position{width:340px ;}
+    .sm-fix-position {
+        width: 340px;
+    }
+
     .card {
         height: 250px;
         width: 150px;
@@ -88,8 +91,8 @@
     }
 
     .deals-section {
-    
-        margin:  0 auto;
+
+        margin: 0 auto;
 
         height: 500px;
         width: 330px;
@@ -99,21 +102,24 @@
         font-size: 20px;
     }
 
+
     .deal-img {
+        width: 200px;
+        height: 200px;
 
-        margin-left: 10px;
     }
-.service-section{
-    margin:  0 auto;
 
-    width: 300px;
+    .service-section {
+        margin: 0 auto;
 
-}
+        width: 300px;
+
+    }
 
 
-.full-footer-section{
-    width: 350px;   
-    margin:  0 auto;
-}
+    .full-footer-section {
+        width: 350px;
+        margin: 0 auto;
+    }
 
 }
