@@ -121,5 +121,10 @@
         width: 200px;
         margin: 0 auto;
     }
-
+    .footer-my-text{
+        margin-left:20px ;
+      
+        color: #00B2EA;
+        font-size: 15px;
+    }
 }
